@@ -13,3 +13,5 @@
 - Hist plot
 
 - Box plot
+
+- Grid plot
