@@ -6,4 +6,6 @@
 
 - Adding labels to plots/subplots
 
-- scatter plot
+- Scatter plot
+
+- Stim plot
