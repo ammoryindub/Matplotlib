@@ -17,3 +17,5 @@
 - Grid plot
 
 - Pie plot
+
+- Tricounter plot
