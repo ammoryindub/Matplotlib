@@ -9,3 +9,5 @@
 - Scatter plot
 
 - Stim plot
+
+- Hist plot
