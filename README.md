@@ -1,3 +1,5 @@
 # Matplotlib
 
-- Importing libraries 
+- Importing libraries
+
+- Creating plots/subplots
