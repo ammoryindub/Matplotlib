@@ -21,3 +21,5 @@
 - Tricounter plot
 
 - 3D Scatter plot
+
+- Triangular 3D surface plot
