@@ -11,3 +11,5 @@
 - Stim plot
 
 - Hist plot
+
+- Box plot
