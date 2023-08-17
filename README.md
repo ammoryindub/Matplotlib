@@ -23,3 +23,5 @@
 - 3D Scatter plot
 
 - Triangular 3D surface plot
+
+- 3D wireframe plot
