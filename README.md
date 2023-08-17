@@ -15,3 +15,5 @@
 - Box plot
 
 - Grid plot
+
+- Pie plot
