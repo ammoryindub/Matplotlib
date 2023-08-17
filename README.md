@@ -19,3 +19,5 @@
 - Pie plot
 
 - Tricounter plot
+
+- 3D Scatter plot
